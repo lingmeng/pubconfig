@@ -1,1 +1,2 @@
-nimo.a=test
+nimo:
+  a: test
